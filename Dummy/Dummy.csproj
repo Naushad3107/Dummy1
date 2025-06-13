@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Page1.aspx" />
+    <Content Include="page2.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -77,6 +78,13 @@
     </Compile>
     <Compile Include="Page1.aspx.designer.cs">
       <DependentUpon>Page1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="page2.aspx.cs">
+      <DependentUpon>page2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="page2.aspx.designer.cs">
+      <DependentUpon>page2.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
