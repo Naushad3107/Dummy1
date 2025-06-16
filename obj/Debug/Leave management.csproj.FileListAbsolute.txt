@@ -1,0 +1,59 @@
+C:\dotnet\Leave management\Leave management\bin\Leave management.dll.config
+C:\dotnet\Leave management\Leave management\bin\Leave management.dll
+C:\dotnet\Leave management\Leave management\bin\Leave management.pdb
+C:\dotnet\Leave management\Leave management\bin\roslyn\csc.exe
+C:\dotnet\Leave management\Leave management\bin\roslyn\csc.exe.config
+C:\dotnet\Leave management\Leave management\bin\roslyn\csc.rsp
+C:\dotnet\Leave management\Leave management\bin\roslyn\csi.exe
+C:\dotnet\Leave management\Leave management\bin\roslyn\csi.exe.config
+C:\dotnet\Leave management\Leave management\bin\roslyn\csi.rsp
+C:\dotnet\Leave management\Leave management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\dotnet\Leave management\Leave management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\Microsoft.Managed.Core.targets
+C:\dotnet\Leave management\Leave management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\dotnet\Leave management\Leave management\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.AppContext.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.Collections.Immutable.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.Console.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.Globalization.Calendars.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.IO.Compression.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.IO.FileSystem.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.Net.Http.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.Net.Sockets.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.Reflection.Metadata.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.ValueTuple.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.Xml.XmlDocument.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.Xml.XPath.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\dotnet\Leave management\Leave management\bin\roslyn\vbc.exe
+C:\dotnet\Leave management\Leave management\bin\roslyn\vbc.exe.config
+C:\dotnet\Leave management\Leave management\bin\roslyn\vbc.rsp
+C:\dotnet\Leave management\Leave management\bin\roslyn\VBCSCompiler.exe
+C:\dotnet\Leave management\Leave management\bin\roslyn\VBCSCompiler.exe.config
+C:\dotnet\Leave management\Leave management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\dotnet\Leave management\Leave management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\dotnet\Leave management\Leave management\obj\Debug\Leave management.csproj.AssemblyReference.cache
+C:\dotnet\Leave management\Leave management\obj\Debug\Leave management.csproj.CoreCompileInputs.cache
+C:\dotnet\Leave management\Leave management\obj\Debug\Leave ma.5272C7A3.Up2Date
+C:\dotnet\Leave management\Leave management\obj\Debug\Leave management.dll
+C:\dotnet\Leave management\Leave management\obj\Debug\Leave management.pdb
